@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "gsap": "^3.11.5",
+    "three": "^0.151.3",
+    "three.interactive": "^1.7.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.3"
+  }
+}
